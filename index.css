@@ -1,0 +1,27 @@
+*{
+    padding: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container{
+    display: flex;
+    /*width: 100%;*/
+    /*padding: 10px;
+    margin: 10px;*/
+}
+.sub-container{
+    display: flex
+    
+    
+}
+div{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    background-color: cadetblue;
+    gap: 10px;
+    font-size: 2rem;
+    padding: 5px
+
+}
+@media screen and (min-width :)
